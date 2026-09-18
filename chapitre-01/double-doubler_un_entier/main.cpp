@@ -5,3 +5,4 @@
     printf("%d\n",nombre*2);
     return 0;
  }
+ 
